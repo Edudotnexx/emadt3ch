@@ -63,11 +63,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.27.35.108",
-            "port": 8080,
+            "address": "199.232.2.8",
+            "port": 443,
             "users": [
               {
-                "id": "f4f45c3e-6dea-4ed8-b3f9-74fde197e495",
+                "id": "bd03e966-fda3-48a8-849c-7018ce8668a8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -81,10 +81,17 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/Join.bede.EmadGraphic-----Join.bede.EmadGraphic-----Join.bede.EmadGraphic----Join.bede.EmadGraphic%3Fed%3D2560",
+          "path": "/%3Fed%3D2048",
           "headers": {
-            "Host": "badass.emaduis.us.kg"
+            "Host": "chekad.ir"
           }
+        },
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "chekad.ir",
+          "alpn": [],
+          "show": false
         }
       },
       "mux": {
@@ -98,11 +105,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.18.40.228",
-            "port": 8080,
+            "address": "199.232.1.166",
+            "port": 443,
             "users": [
               {
-                "id": "f4f45c3e-6dea-4ed8-b3f9-74fde197e495",
+                "id": "bd03e966-fda3-48a8-849c-7018ce8668a8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -116,10 +123,17 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/Join.bede.EmadGraphic-----Join.bede.EmadGraphic-----Join.bede.EmadGraphic----Join.bede.EmadGraphic%3Fed%3D9998",
+          "path": "/%3Fed%3D2048",
           "headers": {
-            "Host": "badass.emaduis.us.kg"
+            "Host": "chekad.ir"
           }
+        },
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": "chekad.ir",
+          "alpn": [],
+          "show": false
         }
       },
       "mux": {
@@ -133,221 +147,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.27.35.108",
-            "port": 80,
-            "users": [
-              {
-                "id": "f4f45c3e-6dea-4ed8-b3f9-74fde197e495",
-                "alterId": 0,
-                "email": "t@t.tt",
-                "security": "auto",
-                "encryption": "none",
-                "flow": ""
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "wsSettings": {
-          "path": "/Join.bede.EmadGraphic-----Join.bede.EmadGraphic-----Join.bede.EmadGraphic----Join.bede.EmadGraphic%3Fed%3D2560",
-          "headers": {
-            "Host": "badass.emaduis.us.kg"
-          }
-        }
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": -1
-      }
-    },
-    {
-      "tag": "proxy-4",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "172.66.45.137",
-            "port": 2086,
-            "users": [
-              {
-                "id": "f4f45c3e-6dea-4ed8-b3f9-74fde197e495",
-                "alterId": 0,
-                "email": "t@t.tt",
-                "security": "auto",
-                "encryption": "none",
-                "flow": ""
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "wsSettings": {
-          "path": "/Join.bede.EmadGraphic-----Join.bede.EmadGraphic-----Join.bede.EmadGraphic----Join.bede.EmadGraphic%3Fed%3D2560",
-          "headers": {
-            "Host": "badass.emaduis.us.kg"
-          }
-        }
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": -1
-      }
-    },
-    {
-      "tag": "proxy-5",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "104.19.30.12",
-            "port": 80,
-            "users": [
-              {
-                "id": "f4f45c3e-6dea-4ed8-b3f9-74fde197e495",
-                "alterId": 0,
-                "email": "t@t.tt",
-                "security": "auto",
-                "encryption": "none",
-                "flow": ""
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "wsSettings": {
-          "path": "/Join.bede.EmadGraphic-----Join.bede.EmadGraphic-----Join.bede.EmadGraphic----Join.bede.EmadGraphic%3Fed%3D2560",
-          "headers": {
-            "Host": "badass.emaduis.us.kg"
-          }
-        }
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": -1
-      }
-    },
-    {
-      "tag": "proxy-6",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "104.27.35.108",
-            "port": 80,
-            "users": [
-              {
-                "id": "f4f45c3e-6dea-4ed8-b3f9-74fde197e495",
-                "alterId": 0,
-                "email": "t@t.tt",
-                "security": "auto",
-                "encryption": "none",
-                "flow": ""
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "wsSettings": {
-          "path": "/Join.bede.EmadGraphic-----Join.bede.EmadGraphic-----Join.bede.EmadGraphic----Join.bede.EmadGraphic",
-          "headers": {
-            "Host": "badass.emaduis.us.kg"
-          }
-        }
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": -1
-      }
-    },
-    {
-      "tag": "proxy-7",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "172.64.150.33",
-            "port": 8080,
-            "users": [
-              {
-                "id": "f4f45c3e-6dea-4ed8-b3f9-74fde197e495",
-                "alterId": 0,
-                "email": "t@t.tt",
-                "security": "auto",
-                "encryption": "none",
-                "flow": ""
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "wsSettings": {
-          "path": "/Join.bede.EmadGraphic-----Join.bede.EmadGraphic-----Join.bede.EmadGraphic----Join.bede.EmadGraphic",
-          "headers": {
-            "Host": "badass.emaduis.us.kg"
-          }
-        }
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": -1
-      }
-    },
-    {
-      "tag": "proxy-8",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "104.27.35.108",
-            "port": 8080,
-            "users": [
-              {
-                "id": "f4f45c3e-6dea-4ed8-b3f9-74fde197e495",
-                "alterId": 0,
-                "email": "t@t.tt",
-                "security": "auto",
-                "encryption": "none",
-                "flow": ""
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "wsSettings": {
-          "path": "/Join.bede.EmadGraphic-----Join.bede.EmadGraphic-----Join.bede.EmadGraphic----Join.bede.EmadGraphic",
-          "headers": {
-            "Host": "badass.emaduis.us.kg"
-          }
-        }
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": -1
-      }
-    },
-    {
-      "tag": "proxy-9",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "104.27.35.108",
+            "address": "199.232.1.31",
             "port": 443,
             "users": [
               {
-                "id": "f4f45c3e-6dea-4ed8-b3f9-74fde197e495",
+                "id": "bd03e966-fda3-48a8-849c-7018ce8668a8",
                 "alterId": 0,
                 "email": "t@t.tt",
                 "security": "auto",
@@ -361,193 +165,16 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/Join.bede.EmadGraphic-----Join.bede.EmadGraphic-----Join.bede.EmadGraphic----Join.bede.EmadGraphic%3Fed%3D2560",
+          "path": "/%3Fed%3D2048",
           "headers": {
-            "Host": "badass.emaduis.us.kg"
+            "Host": "chekad.ir"
           }
         },
         "security": "tls",
         "tlsSettings": {
           "allowInsecure": true,
-          "serverName": "baDAss.EmaDUis.Us.kG",
-          "alpn": [
-            "http/1.1",
-            "h2"
-          ],
-          "show": false
-        }
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": -1
-      }
-    },
-    {
-      "tag": "proxy-10",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "104.27.35.108",
-            "port": 443,
-            "users": [
-              {
-                "id": "f4f45c3e-6dea-4ed8-b3f9-74fde197e495",
-                "alterId": 0,
-                "email": "t@t.tt",
-                "security": "auto",
-                "encryption": "none",
-                "flow": ""
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "wsSettings": {
-          "path": "/Join.bede.EmadGraphic-----Join.bede.EmadGraphic-----Join.bede.EmadGraphic----Join.bede.EmadGraphic",
-          "headers": {
-            "Host": "badass.emaduis.us.kg"
-          }
-        },
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": true,
-          "serverName": "baDAss.EmaDUis.Us.kG",
-          "alpn": [
-            "http/1.1",
-            "h2"
-          ],
-          "show": false
-        }
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": -1
-      }
-    },
-    {
-      "tag": "proxy-11",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "195.85.23.2",
-            "port": 443,
-            "users": [
-              {
-                "id": "f4f45c3e-6dea-4ed8-b3f9-74fde197e495",
-                "alterId": 0,
-                "email": "t@t.tt",
-                "security": "auto",
-                "encryption": "none",
-                "flow": ""
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "wsSettings": {
-          "path": "/Join.bede.EmadGraphic-----Join.bede.EmadGraphic-----Join.bede.EmadGraphic----Join.bede.EmadGraphic%3Fed%3D2560",
-          "headers": {
-            "Host": "badass.emaduis.us.kg"
-          }
-        },
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": true,
-          "serverName": "badass.emaduis.us.kg",
+          "serverName": "chekad.ir",
           "alpn": [],
-          "show": false
-        }
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": -1
-      }
-    },
-    {
-      "tag": "proxy-12",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "45.131.4.5",
-            "port": 443,
-            "users": [
-              {
-                "id": "f4f45c3e-6dea-4ed8-b3f9-74fde197e495",
-                "alterId": 0,
-                "email": "t@t.tt",
-                "security": "auto",
-                "encryption": "none",
-                "flow": ""
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "wsSettings": {
-          "path": "/Join.bede.EmadGraphic-----Join.bede.EmadGraphic-----Join.bede.EmadGraphic----Join.bede.EmadGraphic%3Fed%3D2560",
-          "headers": {
-            "Host": "badass.emaduis.us.kg"
-          }
-        },
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": true,
-          "serverName": "badass.emaduis.us.kg",
-          "alpn": [],
-          "show": false
-        }
-      },
-      "mux": {
-        "enabled": false,
-        "concurrency": -1
-      }
-    },
-    {
-      "tag": "proxy-13",
-      "protocol": "vless",
-      "settings": {
-        "vnext": [
-          {
-            "address": "162.159.239.14",
-            "port": 443,
-            "users": [
-              {
-                "id": "f4f45c3e-6dea-4ed8-b3f9-74fde197e495",
-                "alterId": 0,
-                "email": "t@t.tt",
-                "security": "auto",
-                "encryption": "none",
-                "flow": ""
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "ws",
-        "wsSettings": {
-          "path": "/Join.bede.EmadGraphic-----Join.bede.EmadGraphic-----Join.bede.EmadGraphic----Join.bede.EmadGraphic",
-          "headers": {
-            "Host": "badass.emaduis.us.kg"
-          }
-        },
-        "security": "tls",
-        "tlsSettings": {
-          "allowInsecure": true,
-          "serverName": "baDAss.EmaDUis.Us.kG",
-          "alpn": [
-            "http/1.1",
-            "h2"
-          ],
           "show": false
         }
       },
@@ -585,17 +212,7 @@
     "subjectSelector": [
       "proxy-1",
       "proxy-2",
-      "proxy-3",
-      "proxy-4",
-      "proxy-5",
-      "proxy-6",
-      "proxy-7",
-      "proxy-8",
-      "proxy-9",
-      "proxy-10",
-      "proxy-11",
-      "proxy-12",
-      "proxy-13"
+      "proxy-3"
     ]
   },
   "dns": {
@@ -612,17 +229,7 @@
         "selector": [
           "proxy-1",
           "proxy-2",
-          "proxy-3",
-          "proxy-4",
-          "proxy-5",
-          "proxy-6",
-          "proxy-7",
-          "proxy-8",
-          "proxy-9",
-          "proxy-10",
-          "proxy-11",
-          "proxy-12",
-          "proxy-13"
+          "proxy-3"
         ],
         "strategy": {
           "type": "leastLoad"
@@ -643,4 +250,4 @@
       }
     ]
   }
-              }
+}
