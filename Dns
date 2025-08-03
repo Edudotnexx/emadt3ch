@@ -1,5 +1,4 @@
 https://small-waterfall-34bf8171.viniyin620.workers.dev/dns-query
-
 tls://8.8.8.8
 tls://google.dns
 tls://1.1.1.1
@@ -14,5 +13,7 @@ https://protective.joindns4.eu/dns-query
 https://unfiltered.joindns4.eu/dns-query
 https://dns.surfsharkdns.com/dns-query
 https://secure.avastdns.com/dns-query
-
-
+https://wikimedia-dns.org/dns-query
+https://dns.kernel-error.de/dns-query
+https://sky.rethinkdns.com/
+https://dns.dns-53.us/dns-query
