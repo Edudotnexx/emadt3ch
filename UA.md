@@ -1,8 +1,9 @@
-# 🚀 لیست برنامه‌های کاربردی (Windows & Android)
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Dark--Blue%20Theme-0f172a?style=flat&logo=github&logoColor=00CFFF&labelColor=1e3a8a" />
+  <!-- لوگوی نئون EmadTech -->
+  <img src="assets/emadtech-neon.svg" width="300" />
 </p>
+
+# 🚀 لیست برنامه‌های کاربردی (Windows & Android)
 
 بهترین و پرکاربردترین نرم‌افزارها برای **ویندوز** و **اندروید**  
 (قابل استفاده شخصی + پیشنهاد برای دیگران)  
@@ -11,7 +12,7 @@
 
 <!-- خط گرادیانی تمیز -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EmadT3ch/assets/main/blue-line.svg" width="80%" />
+  <img src="assets/blue-line.svg" width="80%" />
 </p>
 
 ## 🌐 <span style="color:#00CFFF">1. Browser</span>
@@ -71,5 +72,5 @@
 ---
 
 <p align="center">
-  <sub><span style="color:#00CFFF">💙 ساخته شده با عشق توسط عماد</span></sub>
+  <sub><span style="color:#00CFFF">💙 ساخته شده با عشق توسط Emad</span></sub>
 </p>
