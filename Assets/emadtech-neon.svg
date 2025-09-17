@@ -1,0 +1,24 @@
+<svg width="450" height="120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- گرادیانت آبی -->
+    <linearGradient id="blueGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#00CFFF; stop-opacity:1"></stop>
+      <stop offset="100%" style="stop-color:#1E3A8A; stop-opacity:1"></stop>
+    </linearGradient>
+
+    <!-- فیلتر نئونی -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur1"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur1"></feMergeNode>
+        <feMergeNode in="blur1"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- متن نئونی -->
+  <text x="30" y="80" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="bold" fill="none" stroke="url(#blueGradient)" stroke-width="2" filter="url(#glow)">
+    EmadTech
+  </text>
+</svg>
