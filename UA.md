@@ -1,7 +1,7 @@
 # 🚀 لیست برنامه‌های کاربردی (Windows & Android)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Theme-Dark%20%26%20Blue-1E3A8A?style=for-the-badge&logo=visual-studio-code&logoColor=00CFFF" />
+  <img src="https://img.shields.io/badge/Dark--Blue%20Theme-0f172a?style=flat&logo=github&logoColor=00CFFF&labelColor=1e3a8a" />
 </p>
 
 بهترین و پرکاربردترین نرم‌افزارها برای **ویندوز** و **اندروید**  
@@ -9,9 +9,9 @@
 
 ---
 
-<!-- خط گرادیان آبی -->
+<!-- خط گرادیانی تمیز -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-‎-000000?style=for-the-badge&logoColor=blue&labelColor=0f172a&color=1e3a8a&logo=windows" width="80%" />
+  <img src="https://raw.githubusercontent.com/EmadT3ch/assets/main/blue-line.svg" width="80%" />
 </p>
 
 ## 🌐 <span style="color:#00CFFF">1. Browser</span>
@@ -71,5 +71,5 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made_with-❤️_by_Emad-1E3A8A?style=for-the-badge" />
+  <sub><span style="color:#00CFFF">💙 ساخته شده با عشق توسط عماد</span></sub>
 </p>
