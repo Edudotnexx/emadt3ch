@@ -36,24 +36,24 @@
 ## 🛠️ 4. ابزارها | Tools
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
 |:--:|:--|
-| 🖥️ ویندوز  | 🗜️ [7-Zip](https://www.7-zip.org) • 📝 [Notepad++](https://notepad-plus-plus.org) • 🧰 [PowerToys](https://github.com/microsoft/PowerToys) • 🟩 [Localsend](https://localsend.org/download) |
-| 📱 اندروید  | 🗜️ [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) • 📁 [MiXplorer](https://mixplorer.com) • 🟩 [Localsend](https://localsend.org/download) |
+| 🖥️ ویندوز  | 🗜️ [7-Zip](https://www.7-zip.org) • 📝 [Notepad++](https://notepad-plus-plus.org) • 🧰 [PowerToys](https://github.com/microsoft/PowerToys) • 📁 [Everything](https://www.voidtools.com/) • [Wintoys](https://www.voidtools.com/)  |
+| 📱 اندروید  | 🗜️ [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) • 📁 [MiXplorer](https://mixplorer.com) |
 
 ---
 
 ## 🔐 5. وی‌پی‌ان | VPN
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
 |:--:|:--|
-| 🖥️ ویندوز  | 🟦 [Outline](https://getoutline.org) • 🟥 [WireGuard](https://www.wireguard.com) |
-|  📱 اندروید  | 🟦 [Outline](https://play.google.com/store/apps/details?id=org.outline.android.client) • 🟥 [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) • 🟦 [Hiddify](https://github.com/hiddify/hiddify-app/releases) • 🟩 [ProxyCloud](https://github.com/code3-dev/ProxyCloud) |
+| 🖥️ ویندوز  | 🟦 [Outline](https://getoutline.org) •  🟦 [Hiddify](https://github.com/hiddify/hiddify-app/releases) • 🟩 [ProxyCloud](https://github.com/code3-dev/ProxyCloud) |
+|  📱 اندروید  | 🟦 [Outline](https://play.google.com/store/apps/details?id=org.outline.android.client) • 🟦 [Hiddify](https://github.com/hiddify/hiddify-app/releases) • 🟩 [ProxyCloud](https://github.com/code3-dev/ProxyCloud) |
 
 ---
 
 ## 📂 6. اشتراک‌گذاری فایل | File Sharing
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
 |:--:|:--|
-| 🖥️ ویندوز  | 🟪 [qBittorrent](https://www.qbittorrent.org) • 🟥 [FileZilla](https://filezilla-project.org) |
-| 📱 اندروید  | 🟦 [ShareIt](https://play.google.com/store/apps/details?id=com.lenovo.anyshare.gps) • 🟩 [Send Anywhere](https://play.google.com/store/apps/details?id=com.estmob.android.sendanywhere) |
+| 🖥️ ویندوز  | 🟪 [qBittorrent](https://www.qbittorrent.org) • 🟥 [FileZilla](https://filezilla-project.org) • 🟩 [Localsend](https://localsend.org/download)|
+| 📱 اندروید  | 🟩 [Send Anywhere](https://play.google.com/store/apps/details?id=com.estmob.android.sendanywhere) • 🟩 [Localsend](https://localsend.org/download)|
 
 ---
 
@@ -65,19 +65,6 @@
 
 ---
 
-## 📌 نکته سریع برای اضافه کردن برنامه جدید
-
-- برنامه جدید رو فقط به این صورت توی جدول اضافه کن:
-  ```
-  | 🖥️ ویندوز  | 🌟 [اسم برنامه](لینک برنامه) • ... |
-  ```
-  یا
-  ```
-  | 📱 اندروید  | 🌟 [اسم برنامه](لینک برنامه) • ... |
-  ```
-- فقط ایموجی و نام و لینک رو بذار، هر برنامه با "•" جدا بشه.
-
----
 
 <p align="center">
   <b>✨ با عشق از عمادتک ✨</b>
