@@ -12,7 +12,7 @@
 
 <!-- خط گرادیانی تمیز -->
 <p align="center">
-  <img width="70%" src="https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d">
+  <img width="90%" src="https://github.com/mansor427/IpScanner/assets/104245967/08ccb46c-51a3-4d16-a0a4-27fb7492d35d">
 </p>
 
 ## 🌐 <span style="color:#00CFFF">1. Browser</span>
