@@ -1,6 +1,6 @@
 <p align="center">
   <!-- لوگوی نئون EmadTech -->
-  <img src="Assets/emadtech-neon.svg" width="300" />
+  <img src="Assets/emadtech-neon.svg" width="500" />
 </p>
 
 # 📦 لیست برنامه‌های کاربردی (Windows & Android)
