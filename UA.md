@@ -1,11 +1,20 @@
-# 📦 لیست برنامه‌های کاربردی (Windows & Android)
+# 🚀 لیست برنامه‌های کاربردی (Windows & Android)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Theme-Dark%20%26%20Blue-1E3A8A?style=for-the-badge&logo=visual-studio-code&logoColor=00CFFF" />
+</p>
 
 بهترین و پرکاربردترین نرم‌افزارها برای **ویندوز** و **اندروید**  
 (قابل استفاده شخصی + پیشنهاد برای دیگران)  
 
 ---
 
-## 🌐 1. Browser
+<!-- خط گرادیان آبی -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-‎-000000?style=for-the-badge&logoColor=blue&labelColor=0f172a&color=1e3a8a&logo=windows" width="80%" />
+</p>
+
+## 🌐 <span style="color:#00CFFF">1. Browser</span>
 | سیستم عامل | برنامه‌ها |
 |------------|-----------|
 | 🖥️ ویندوز  | [Chrome](https://www.google.com/chrome) • [Firefox](https://www.mozilla.org/firefox) • [Brave](https://brave.com) |
@@ -13,7 +22,7 @@
 
 ---
 
-## 🎬 2. Media Player
+## 🎬 <span style="color:#00CFFF">2. Media Player</span>
 | سیستم عامل | برنامه‌ها |
 |------------|-----------|
 | 🖥️ ویندوز  | [VLC](https://www.videolan.org/vlc/) • [PotPlayer](https://potplayer.daum.net) |
@@ -21,7 +30,7 @@
 
 ---
 
-## 💬 3. Messengers
+## 💬 <span style="color:#00CFFF">3. Messengers</span>
 | سیستم عامل | برنامه‌ها |
 |------------|-----------|
 | 🖥️ ویندوز  | [Telegram](https://desktop.telegram.org) • [WhatsApp](https://www.whatsapp.com/download) |
@@ -29,7 +38,7 @@
 
 ---
 
-## 🛠️ 4. Tools
+## 🛠️ <span style="color:#00CFFF">4. Tools</span>
 | سیستم عامل | برنامه‌ها |
 |------------|-----------|
 | 🖥️ ویندوز  | [7-Zip](https://www.7-zip.org) • [Notepad++](https://notepad-plus-plus.org) • [PowerToys](https://github.com/microsoft/PowerToys) |
@@ -37,7 +46,7 @@
 
 ---
 
-## 🔐 5. VPN
+## 🔐 <span style="color:#00CFFF">5. VPN</span>
 | سیستم عامل | برنامه‌ها |
 |------------|-----------|
 | 🖥️ ویندوز  | [Outline](https://getoutline.org) • [WireGuard](https://www.wireguard.com) |
@@ -45,7 +54,7 @@
 
 ---
 
-## 📂 6. File Sharing
+## 📂 <span style="color:#00CFFF">6. File Sharing</span>
 | سیستم عامل | برنامه‌ها |
 |------------|-----------|
 | 🖥️ ویندوز  | [qBittorrent](https://www.qbittorrent.org) • [FileZilla](https://filezilla-project.org) |
@@ -53,7 +62,7 @@
 
 ---
 
-## 🛡️ 7. Security
+## 🛡️ <span style="color:#00CFFF">7. Security</span>
 | سیستم عامل | برنامه‌ها |
 |------------|-----------|
 | 🖥️ ویندوز  | [Malwarebytes](https://www.malwarebytes.com) • [Bitdefender](https://www.bitdefender.com) |
@@ -61,9 +70,6 @@
 
 ---
 
-## 📌 نکته
-- می‌تونی راحت به هر دسته **برنامه جدید اضافه کنی**.  
-- فقط کافیه لینک استورش رو بذاری داخل جدول.  
-- برای زیبایی از **ایموجی‌ها** و **تیترهای رنگی Markdown** استفاده کردم.  
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Made_with-❤️_by_Emad-1E3A8A?style=for-the-badge" />
+</p>
