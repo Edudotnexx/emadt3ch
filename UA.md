@@ -45,7 +45,7 @@
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
 |:--:|:--|
 | 🖥️ ویندوز  | 🟦 [Outline](https://getoutline.org) • 🟥 [WireGuard](https://www.wireguard.com) |
-|  📱 اندروید  | 🟦 [Outline](https://play.google.com/store/apps/details?id=org.outline.android.client) • 🟥 [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android)|• [Hiddify]([https://www.wireguard.com](https://github.com/hiddify/hiddify-app/releases)) |
+|  📱 اندروید  | 🟦 [Outline](https://play.google.com/store/apps/details?id=org.outline.android.client) • 🟥 [WireGuard](https://play.google.com/store/apps/details?id=com.wireguard.android) • [Hiddify]([https://www.wireguard.com](https://github.com/hiddify/hiddify-app/releases)) |
 
 ---
 
