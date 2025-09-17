@@ -10,7 +10,7 @@
 
 ---
 
-## 🌐 1. Browser
+## 🌐 1. Browser | مرورگر
 | سیستم عامل | برنامه‌ها |
 |------------|-----------|
 | 🖥️ ویندوز  | [Chrome](https://www.google.com/chrome) • [Firefox](https://www.mozilla.org/firefox) • [Brave](https://brave.com) |
