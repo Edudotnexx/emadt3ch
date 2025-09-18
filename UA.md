@@ -20,7 +20,7 @@
 ## 🎬 2. پخش‌کننده مدیا | Media Player
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
 |:--:|:--|
-| 🖥️ ویندوز  | 🟠 [VLC](https://www.videolan.org/vlc/) • 🟡 [PotPlayer](https://potplayer.daum.net) |
+| 🖥️ ویندوز  | 🟠 [VLC](https://www.videolan.org/vlc/) • 🟡 [PotPlayer](https://potplayer.daum.net) • ⚪ [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) |
 | 📱 اندروید  | 🟠 [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc) • 🟡 [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) |
 
 ---
