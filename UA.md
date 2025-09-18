@@ -36,8 +36,8 @@
 ## 🛠️ 4. ابزارها | Tools
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
 |:--:|:--|
-| 🖥️ ویندوز  | 🗜️ [7-Zip](https://www.7-zip.org) • 📝 [Notepad++](https://notepad-plus-plus.org) • 🧰 [PowerToys](https://github.com/microsoft/PowerToys) • 📁 [Everything](https://www.voidtools.com/) • 🤖 [Wintoys](https://www.voidtools.com/)  |
-| 📱 اندروید  | 🗜️ [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) • 📁 [MiXplorer](https://mixplorer.com) |
+| 🖥️ ویندوز  | 🗜️ [7-Zip](https://www.7-zip.org) • 📝 [Notepad++](https://notepad-plus-plus.org) • 🧰 [PowerToys](https://github.com/microsoft/PowerToys) • 📁 [Everything](https://www.voidtools.com/) • 🧰 [Wintoys](https://www.voidtools.com/)  • 🧰 [Glasswire](https://www.glasswire.com/download/)  |
+| 📱 اندروید  | 🗜️ [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) • 📁 [MiXplorer](https://mixplorer.com) • 🧰 [Glasswire](https://www.glasswire.com/download/) |
 
 ---
 
