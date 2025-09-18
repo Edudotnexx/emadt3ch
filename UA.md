@@ -68,8 +68,8 @@
 ## 🛡️ 8. هوش مصنوعی | Ai (وبسایت)
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
 |:--:|:--|
-| 🖥️ ویندوز  | 🟦 [Perplexity](https://www.perplexity.ai/) • ⬜ [chatgpt](https://chatgpt.com/) |
-| 📱 اندروید  | 🟦 [Perplexity](https://www.perplexity.ai/) • ⬜ [chatgpt](https://chatgpt.com/) |
+| 🖥️ ویندوز  | 🟦 [Perplexity](https://www.perplexity.ai/) • ⬜ [chatgpt](https://chatgpt.com/) • ⬜ [krea](https://www.krea.ai/) • 🟪 [Leonardo](https://leonardo.ai/)  |
+| 📱 اندروید  | 🟦 [Perplexity](https://www.perplexity.ai/) • ⬜ [chatgpt](https://chatgpt.com/) • ⬜ [krea](https://www.krea.ai/) • 🟪 [Leonardo](https://leonardo.ai/)  |
 
 ---
 
