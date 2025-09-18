@@ -65,6 +65,14 @@
 
 ---
 
+## 🛡️ 7. هوش مصنوعی | Ai
+| 💻 سیستم عامل | 🚀 برنامه‌ها |
+|:--:|:--|
+| 🖥️ ویندوز  | 🟦 [Perplexity](https://www.perplexity.ai/) • ⬜ [chatgpt](https://chatgpt.com/) |
+| 📱 اندروید  | 🟦 [Perplexity](https://www.perplexity.ai/) • ⬜ [chatgpt](https://chatgpt.com/) |
+
+---
+
 
 <p align="center">
   <b>✨ با عشق از عمادتک ✨</b>
