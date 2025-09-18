@@ -12,7 +12,7 @@
 ## 🌐 1. مرورگرها | Browsers
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
 |:--:|:--|
-| 🖥️ ویندوز  | 🌈 [Chrome](https://www.google.com/chrome) • 🦊 [Firefox](https://www.mozilla.org/firefox) • 🦁 [Brave](https://brave.com) • 🦁 [vivaldi](http://vivaldi.com/download/) |
+| 🖥️ ویندوز  | 🌈 [Chrome](https://www.google.com/chrome) • 🦊 [Firefox](https://www.mozilla.org/firefox) • 🦁 [Brave](https://brave.com) • 🔴 [vivaldi](http://vivaldi.com/download/) |
 | 📱 اندروید  | 🌈 [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome) • 🦊 [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) • 🦁 [Brave](https://play.google.com/store/apps/details?id=com.brave.browser) |
 
 ---
