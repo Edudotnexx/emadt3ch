@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
- <img  align="right" width="30%" src="https://github.com/mansor427/mansor427/blob/main/image/linerainbow2.gif" />  />
+ <img  align="right" width="30%" src="https://github.com/mansor427/mansor427/blob/main/image/linerainbow2.gif" />
 </p>
 
 
