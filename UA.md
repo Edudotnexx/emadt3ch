@@ -9,9 +9,8 @@
 
 
 <p>
-   <img  width="30%" src="https://github.com/mansor427/mansor427/assets/104245967/e6276e60-e061-4fc1-bd82-16f6569e30d7" />
    
-   <img  align="right" width="30%" src="https://github.com/user-attachments/assets/575340a7-6a4c-4f21-903c-29b88ea9ff42" />
+   <img  align="center" width="30%" src="https://github.com/user-attachments/assets/575340a7-6a4c-4f21-903c-29b88ea9ff42" />
 </p> 
 
 
