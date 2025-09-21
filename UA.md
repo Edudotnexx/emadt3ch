@@ -134,9 +134,6 @@
   <img src="Assets/blue-line.svg" width="100%" />
 </p>
 
-<p>
-   <img  align="right" width="30%" src="https://github.com/user-attachments/assets/575340a7-6a4c-4f21-903c-29b88ea9ff42" />
-</p> 
 
 <p align="center">
   <b> کانال تلگرام : Emadt3ch </b>
