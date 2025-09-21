@@ -44,8 +44,8 @@
 ## 🔐 5. وی‌پی‌ان | VPN
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
 |:--:|:--|
-| 🖥️ ویندوز  | 🟦 [Outline](https://getoutline.org) •  🟦 [Hiddify](https://github.com/hiddify/hiddify-app/releases) • 🟩 [ProxyCloud](https://github.com/code3-dev/ProxyCloud) |
-|  📱 اندروید  | 🟦 [Outline](https://play.google.com/store/apps/details?id=org.outline.android.client) • 🟦 [Hiddify](https://github.com/hiddify/hiddify-app/releases) • 🟩 [ProxyCloud](https://github.com/code3-dev/ProxyCloud) |
+| 🖥️ ویندوز  | 🟦 [Outline](https://getoutline.org) •  🟦 [Hiddify](https://github.com/hiddify/hiddify-app/releases) • 🟩 [ProxyCloud](https://github.com/code3-dev/ProxyCloud) • 🟨 [Amnesia](https://amnezia.org/en/downloads) |
+|  📱 اندروید  | 🟦 [Outline](https://play.google.com/store/apps/details?id=org.outline.android.client) • 🟦 [Hiddify](https://github.com/hiddify/hiddify-app/releases) • 🟩 [ProxyCloud](https://github.com/code3-dev/ProxyCloud) • 🟨 [Amnesia](https://amnezia.org/en/downloads) • 🟩 [Tls Tunnel](https://play.google.com/store/apps/details?id=com.tlsvpn.tlstunnel&hl=en) • 🟥 [Urnetwork](https://play.google.com/store/apps/details?id=com.bringyour.network&hl=en) |
 
 ---
 
