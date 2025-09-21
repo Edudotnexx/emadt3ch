@@ -107,7 +107,8 @@
 <p align="center">
   <img src="Assets/blue-line.svg" width="100%" />
 </p>
-## 🌐 9. وبسایت‌های کاربردی | Useful Websites  
+## 🌐 9. وبسایت‌های کاربردی | Useful Websites 
+
 | 🌍 دسته‌بندی | 🔗 وبسایت‌ها |
 |:--:|:--|
 | 🔎 جستجو و تحقیق | 🟦 [Google Scholar](https://scholar.google.com/) • ⬜ [Wolfram Alpha](https://www.wolframalpha.com/) • 🟪 [Archive.org](https://archive.org/) |
