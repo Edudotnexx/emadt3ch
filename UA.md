@@ -9,12 +9,12 @@
 
 
 
+
+
+
 <p align="center">
   <img src="Assets/blue-line.svg" width="100%" />
 </p>
-
-
----
 
 ## 🌐 1. مرورگرها | Browsers
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
@@ -22,7 +22,9 @@
 | 🖥️ ویندوز  | 🌈 [Chrome](https://www.google.com/chrome) • 🦊 [Firefox](https://www.mozilla.org/firefox) • 🦁 [Brave](https://brave.com) • 🔴 [vivaldi](http://vivaldi.com/download/) |
 | 📱 اندروید  | 🌈 [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome) • 🦊 [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) • 🦁 [Brave](https://play.google.com/store/apps/details?id=com.brave.browser) |
 
----
+<p align="center">
+  <img src="Assets/blue-line.svg" width="100%" />
+</p>
 
 ## 🎬 2. پخش‌کننده مدیا | Media Player
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
@@ -30,7 +32,9 @@
 | 🖥️ ویندوز  | 🟠 [VLC](https://www.videolan.org/vlc/) • 🟡 [PotPlayer](https://potplayer.daum.net) • ⚪ [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) |
 | 📱 اندروید  | 🟠 [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc) • 🟡 [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) |
 
----
+<p align="center">
+  <img src="Assets/blue-line.svg" width="100%" />
+</p>
 
 ## 💬 3. پیام‌رسان‌ها | Messengers
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
@@ -38,7 +42,9 @@
 | 🖥️ ویندوز  | 💙 [Telegram](https://desktop.telegram.org) • 💚 [WhatsApp](https://www.whatsapp.com/download) |
 | 📱 اندروید  | 💙 [Telegram](https://play.google.com/store/apps/details?id=org.telegram.messenger) • 💚 [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp) |
 
----
+<p align="center">
+  <img src="Assets/blue-line.svg" width="100%" />
+</p>
 
 ## 🛠️ 4. ابزارها | Tools
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
@@ -46,7 +52,9 @@
 | 🖥️ ویندوز  | 🗜️ [7-Zip](https://www.7-zip.org) • 📝 [Notepad++](https://notepad-plus-plus.org) • 🧰 [PowerToys](https://github.com/microsoft/PowerToys) • 📁 [Everything](https://www.voidtools.com/) • 🧰 [Wintoys](https://www.voidtools.com/)  • 🧰 [Glasswire](https://www.glasswire.com/download/)  • 🧰 [YTMD](https://ytmdesktop.app/#download) • 🟦 [PDAnet+](https://pdanet.co/install/) |
 | 📱 اندروید  | 🗜️ [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) • 📁 [MiXplorer](https://mixplorer.com) • 🧰 [Glasswire](https://www.glasswire.com/download/) • 🟦 [PDAnet+](https://play.google.com/store/apps/details?id=com.pdanet&hl=en) • 🟪 [obtainium](https://obtainium.imranr.dev/) |
 
----
+<p align="center">
+  <img src="Assets/blue-line.svg" width="100%" />
+</p>
 
 ## 🔐 5. وی‌پی‌ان | VPN
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
@@ -54,7 +62,9 @@
 | 🖥️ ویندوز  | 🟦 [Outline](https://getoutline.org) •  🟦 [Hiddify](https://github.com/hiddify/hiddify-app/releases) • 🟩 [ProxyCloud](https://github.com/code3-dev/ProxyCloud) • 🟨 [Amnesia](https://amnezia.org/en/downloads) |
 |  📱 اندروید  | 🟦 [Outline](https://play.google.com/store/apps/details?id=org.outline.android.client) • 🟦 [Hiddify](https://github.com/hiddify/hiddify-app/releases) • 🟩 [ProxyCloud](https://github.com/code3-dev/ProxyCloud) • 🟨 [Amnesia](https://amnezia.org/en/downloads) • 🟩 [Tls Tunnel](https://play.google.com/store/apps/details?id=com.tlsvpn.tlstunnel&hl=en) • 🟥 [Urnetwork](https://play.google.com/store/apps/details?id=com.bringyour.network&hl=en) |
 
----
+<p align="center">
+  <img src="Assets/blue-line.svg" width="100%" />
+</p>
 
 ## 📂 6. اشتراک‌گذاری فایل | File Sharing
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
@@ -62,7 +72,9 @@
 | 🖥️ ویندوز  | 🟪 [qBittorrent](https://www.qbittorrent.org) • 🟥 [FileZilla](https://filezilla-project.org) • 🟩 [Localsend](https://localsend.org/download)|
 | 📱 اندروید  | 🟩 [Send Anywhere](https://play.google.com/store/apps/details?id=com.estmob.android.sendanywhere) • 🟩 [Localsend](https://localsend.org/download)|
 
----
+<p align="center">
+  <img src="Assets/blue-line.svg" width="100%" />
+</p>
 
 ## 🛡️ 7. امنیت | Security
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
@@ -70,7 +82,7 @@
 | 🖥️ ویندوز  | 🟩 [Malwarebytes](https://www.malwarebytes.com) • 🟥 [Bitdefender](https://www.bitdefender.com) |
 | 📱 اندروید  | 🟥 [Bitdefender](https://play.google.com/store/apps/details?id=com.bitdefender.security) • 🟩 [Avast](https://play.google.com/store/apps/details?id=com.avast.android.mobilesecurity) |
 
----
+<p align="center">   <img src="Assets/blue-line.svg" width="100%" /> </p>
 
 ## 🤖 8. هوش مصنوعی | Artificial Intelligence  
 
@@ -79,7 +91,7 @@
 | 🖥️ ویندوز  | 🟦 [ChatGPT Desktop](https://chat.openai.com/) • 🟪 [LM Studio](https://lmstudio.ai/) • ⬜ [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) |
 | 📱 اندروید  | 🟦 [Perplexity AI](https://play.google.com/store/apps/details?id=ai.perplexity.app.android) • ⬜ [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt) • 🟪 [Replika](https://replika.ai/) |
 
----
+<p align="center">   <img src="Assets/blue-line.svg" width="100%" /> </p>
 
 ### 🌐 وبسایت‌های هوش مصنوعی  
 
