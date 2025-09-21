@@ -23,7 +23,9 @@
   <img src="Assets/blue-line.svg" width="100%" />
 </p>
 
-<img  align="right" width="30%" src="https://github.com/mansor427/mansor427/blob/main/image/line-divider.gif" />
+<p align="center">
+ <img  align="right" width="30%" src="https://github.com/mansor427/mansor427/blob/main/image/linerainbow2.gif" />  />
+</p>
 
 
 ## 🌐 1. مرورگرها | Browsers
