@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img src="Assets/blue-line.svg" width="20%" />
+  <img src="Assets/blue-line.svg" width="20%" height="10%" />
 </p>
 
 ---
