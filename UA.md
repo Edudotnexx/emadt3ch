@@ -95,6 +95,15 @@
 | 🛠️ ابزارهای آنلاین | 🟦 [TinyWow](https://tinywow.com/) • ⬜ [Remove.bg](https://remove.bg/) • 🟪 [ILovePDF](https://www.ilovepdf.com/) |
 | ☁️ فضای ابری | 🟦 [Google Drive](https://drive.google.com/) • ⬜ [Dropbox](https://www.dropbox.com/) • 🟪 [Mega](https://mega.io/) |
 
+## 📢 10. کانال‌های تلگرامی | Telegram Channels  
+
+| 📌 دسته‌بندی | 🔗 کانال‌ها |
+|:--:|:--|
+| 📰 تکنولوژی و IT | 🟦 [TechGuide](https://t.me/techguide) • ⬜ [EmadT3ch](https://t.me/EmadT3ch) • 🟪 [DevHub](https://t.me/devhub) |
+| 📚 آموزش و یادگیری | 🟦 [Python Learn](https://t.me/python_learn) • ⬜ [AI Notes](https://t.me/ainotes) • 🟪 [CS Books](https://t.me/csbooks) |
+| 🌍 اخبار و تحلیل | 🟦 [Digital World](https://t.me/digital_world) • ⬜ [Crypto Radar](https://t.me/cryptoradar) • 🟪 [Iran Tech](https://t.me/irantech) |
+| 🛠️ ابزار و منابع | 🟦 [Free Tools](https://t.me/freetools) • ⬜ [VPN Hub](https://t.me/vpnhub) • 🟪 [Hack Resources](https://t.me/hackresources) |
+
 
 
 <p align="center">
