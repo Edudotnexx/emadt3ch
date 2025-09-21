@@ -65,13 +65,36 @@
 
 ---
 
-## 🛡️ 8. هوش مصنوعی | Ai (وبسایت)
+## 🤖 8. هوش مصنوعی | Artificial Intelligence  
+
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
 |:--:|:--|
-| 🖥️ ویندوز  | 🟦 [Perplexity](https://www.perplexity.ai/) • ⬜ [chatgpt](https://chatgpt.com/) • ⬜ [krea](https://www.krea.ai/) • 🟪 [Leonardo](https://leonardo.ai/)  |
-| 📱 اندروید  | 🟦 [Perplexity](https://www.perplexity.ai/) • ⬜ [chatgpt](https://chatgpt.com/) • ⬜ [krea](https://www.krea.ai/) • 🟪 [Leonardo](https://leonardo.ai/)  |
+| 🖥️ ویندوز  | 🟦 [ChatGPT Desktop](https://chat.openai.com/) • 🟪 [LM Studio](https://lmstudio.ai/) • ⬜ [KoboldAI](https://github.com/KoboldAI/KoboldAI-Client) |
+| 📱 اندروید  | 🟦 [Perplexity AI](https://play.google.com/store/apps/details?id=ai.perplexity.app.android) • ⬜ [ChatGPT](https://play.google.com/store/apps/details?id=com.openai.chatgpt) • 🟪 [Replika](https://replika.ai/) |
 
 ---
+
+### 🌐 وبسایت‌های هوش مصنوعی  
+
+| 🌍 دسته‌بندی | 🔗 وبسایت‌ها |
+|:--:|:--|
+| 📝 چت‌بات‌ها | 🟦 [ChatGPT](https://chatgpt.com/) • ⬜ [Claude](https://claude.ai/) • 🟪 [Perplexity](https://www.perplexity.ai/) |
+| 🎨 تولید تصویر | 🟦 [Leonardo AI](https://leonardo.ai/) • ⬜ [Krea](https://www.krea.ai/) • 🟪 [RunwayML](https://runwayml.com/) |
+| 🎬 تولید ویدیو | 🟦 [Pika Labs](https://pika.art/) • ⬜ [Synthesia](https://www.synthesia.io/) • 🟪 [Runway](https://runwayml.com/) |
+| 🎵 تولید موسیقی | 🟦 [Suno](https://suno.ai/) • ⬜ [Aiva](https://aiva.ai/) • 🟪 [Boomy](https://boomy.com/) |
+| 🛠️ ابزارهای کمکی | 🟦 [PromptHero](https://prompthero.com/) • ⬜ [Futurepedia](https://www.futurepedia.io/) • 🟪 [HuggingFace](https://huggingface.co/) |
+
+
+## 🌐 9. وبسایت‌های کاربردی | Useful Websites  
+
+| 🌍 دسته‌بندی | 🔗 وبسایت‌ها |
+|:--:|:--|
+| 🔎 جستجو و تحقیق | 🟦 [Google Scholar](https://scholar.google.com/) • ⬜ [Wolfram Alpha](https://www.wolframalpha.com/) • 🟪 [Archive.org](https://archive.org/) |
+| 🎨 طراحی و گرافیک | 🟦 [Canva](https://www.canva.com/) • ⬜ [Figma](https://www.figma.com/) • 🟪 [Coolors](https://coolors.co/) |
+| 📚 آموزش و یادگیری | 🟦 [Coursera](https://www.coursera.org/) • ⬜ [Khan Academy](https://www.khanacademy.org/) • 🟪 [W3Schools](https://www.w3schools.com/) |
+| 🛠️ ابزارهای آنلاین | 🟦 [TinyWow](https://tinywow.com/) • ⬜ [Remove.bg](https://remove.bg/) • 🟪 [ILovePDF](https://www.ilovepdf.com/) |
+| ☁️ فضای ابری | 🟦 [Google Drive](https://drive.google.com/) • ⬜ [Dropbox](https://www.dropbox.com/) • 🟪 [Mega](https://mega.io/) |
+
 
 
 <p align="center">
