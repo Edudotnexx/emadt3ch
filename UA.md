@@ -24,6 +24,8 @@
 </p>
 
 <img  align="right" width="30%" src="https://github.com/mansor427/mansor427/blob/main/image/line-divider.gif" />
+
+
 ## 🌐 1. مرورگرها | Browsers
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
 |:--:|:--|
