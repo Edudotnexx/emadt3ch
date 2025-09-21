@@ -104,6 +104,9 @@
 | 🛠️ ابزارهای کمکی | 🟦 [PromptHero](https://prompthero.com/) • ⬜ [Futurepedia](https://www.futurepedia.io/) • 🟪 [HuggingFace](https://huggingface.co/) |
 
 
+<p align="center">
+  <img src="Assets/blue-line.svg" width="100%" />
+</p>
 ## 🌐 9. وبسایت‌های کاربردی | Useful Websites  
 
 | 🌍 دسته‌بندی | 🔗 وبسایت‌ها |
@@ -113,6 +116,9 @@
 | 📚 آموزش و یادگیری | 🟦 [Coursera](https://www.coursera.org/) • ⬜ [Khan Academy](https://www.khanacademy.org/) • 🟪 [W3Schools](https://www.w3schools.com/) |
 | 🛠️ ابزارهای آنلاین | 🟦 [TinyWow](https://tinywow.com/) • ⬜ [Remove.bg](https://remove.bg/) • 🟪 [ILovePDF](https://www.ilovepdf.com/) |
 | ☁️ فضای ابری | 🟦 [Google Drive](https://drive.google.com/) • ⬜ [Dropbox](https://www.dropbox.com/) • 🟪 [Mega](https://mega.io/) |
+<p align="center">
+  <img src="Assets/blue-line.svg" width="100%" />
+</p>
 
 ## 📢 10. کانال‌های تلگرامی | Telegram Channels  
 
@@ -124,6 +130,9 @@
 | 🛠️ ابزار و منابع | 🟦 [Free Tools](https://t.me/freetools) • ⬜ [VPN Hub](https://t.me/vpnhub) • 🟪 [Hack Resources](https://t.me/hackresources) |
 
 
+<p align="center">
+  <img src="Assets/blue-line.svg" width="100%" />
+</p>
 
 <p align="center">
   <b>✨ با عشق از عمادتک ✨</b>
