@@ -48,8 +48,8 @@
 ## 🛠️ 4. ابزارها | Tools
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
 |:--:|:--|
-| 🖥️ ویندوز  | 🗜️ [7-Zip](https://www.7-zip.org) • 📝 [Notepad++](https://notepad-plus-plus.org) • 🧰 [PowerToys](https://github.com/microsoft/PowerToys) • 📁 [Everything](https://www.voidtools.com/) • 🧰 [Wintoys](https://www.voidtools.com/)  • 🧰 [Glasswire](https://www.glasswire.com/download/)  • 🧰 [YTMD](https://ytmdesktop.app/#download) • 🟦 [PDAnet+](https://pdanet.co/install/) |
-| 📱 اندروید  | 🗜️ [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) • 📁 [MiXplorer](https://mixplorer.com) • 🧰 [Glasswire](https://www.glasswire.com/download/) • 🟦 [PDAnet+](https://play.google.com/store/apps/details?id=com.pdanet&hl=en) • 🟪 [obtainium](https://obtainium.imranr.dev/) |
+| 🖥️ ویندوز  | 🗜️ [7-Zip](https://www.7-zip.org) • 📝 [Notepad++](https://notepad-plus-plus.org) • 🧩 [PowerToys](https://github.com/microsoft/PowerToys) • 🔍 [Everything](https://www.voidtools.com/) • ⚙️ [Wintoys](https://www.voidtools.com/)  • 🌐 [Glasswire](https://www.glasswire.com/download/)  • 🎵 [YTMD](https://ytmdesktop.app/#download) • 📶 [PDAnet+](https://pdanet.co/install/) |
+| 📱 اندروید  | 🗜️ [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) • 📁 [MiXplorer](https://mixplorer.com) • 🌐 [Glasswire](https://www.glasswire.com/download/) • 📶 [PDAnet+](https://play.google.com/store/apps/details?id=com.pdanet&hl=en) • 📦 [obtainium](https://obtainium.imranr.dev/) |
 
 <p align="center">
   <img src="Assets/blue-line.svg" width="100%" />
