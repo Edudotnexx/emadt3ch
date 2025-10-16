@@ -116,6 +116,8 @@
 | 📚 آموزش و یادگیری | 🟦 [Coursera](https://www.coursera.org/) • ⬜ [Khan Academy](https://www.khanacademy.org/) • 🟪 [W3Schools](https://www.w3schools.com/) |
 | 🛠️ ابزارهای آنلاین | 🟦 [TinyWow](https://tinywow.com/) • ⬜ [Remove.bg](https://remove.bg/) • 🟪 [ILovePDF](https://www.ilovepdf.com/) |
 | ☁️ فضای ابری | 🟦 [Google Drive](https://drive.google.com/) • ⬜ [Dropbox](https://www.dropbox.com/) • 🟪 [Mega](https://mega.io/) |
+| 💙 پروکسی تلگرام | 🟦 [YeBeKhe](https://itsyebekhe.github.io/tpro) • ⬜ [ProxyBolt](https://proxybolt.link/) • 🟪 [Darkness](https://telegram-proxy-fetcher.pages.dev/) • 🟪 [Arista](https://arista-proxy.pages.dev/) |
+
 <p align="center">
   <img src="Assets/blue-line.svg" width="100%" />
 </p>
