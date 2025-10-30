@@ -48,7 +48,7 @@
 ## 🛠️ 4. ابزارها | Tools
 | 💻 سیستم عامل | 🚀 برنامه‌ها |
 |:--:|:--|
-| 🖥️ ویندوز  | 🗜️ [7-Zip](https://www.7-zip.org) • 📝 [Notepad++](https://notepad-plus-plus.org) • 🧩 [PowerToys](https://github.com/microsoft/PowerToys) • 🔍 [Everything](https://www.voidtools.com/) • ⚙️ [Wintoys](https://www.voidtools.com/)  • 🌐 [Glasswire](https://www.glasswire.com/download/)  • 🎵 [YTMD](https://ytmdesktop.app/#download) • 📶 [PDAnet+](https://pdanet.co/install/) |
+| 🖥️ ویندوز  | 🗜️ [7-Zip](https://www.7-zip.org) • 📝 [Notepad++](https://notepad-plus-plus.org) • 🧩 [PowerToys](https://github.com/microsoft/PowerToys) • 🔍 [Everything](https://www.voidtools.com/) • ⚙️ [Wintoys](https://www.voidtools.com/)  • 🌐 [Glasswire](https://www.glasswire.com/download/)  • 🎵 [YTMD](https://ytmdesktop.app/#download) • 📶 [PDAnet+](https://pdanet.co/install/) • 📶 [Glow](https://github.com/turkaysoftware/glow) |
 | 📱 اندروید  | 🗜️ [ZArchiver](https://play.google.com/store/apps/details?id=ru.zdevs.zarchiver) • 📁 [MiXplorer](https://mixplorer.com) • 🌐 [Glasswire](https://www.glasswire.com/download/) • 📶 [PDAnet+](https://play.google.com/store/apps/details?id=com.pdanet&hl=en) • 📦 [obtainium](https://obtainium.imranr.dev/) |
 
 <p align="center">
@@ -126,7 +126,7 @@
 
 | 📌 دسته‌بندی | 🔗 کانال‌ها |
 |:--:|:--|
-| 📰 تکنولوژی و IT | 🟦 [NiREvil](https://t.me/F_NiREvil) • ⬜ [EmadT3ch](https://t.me/EmadT3ch) • 🟪 [DevHub](https://t.me/devhub) |
+| 📰 تکنولوژی و IT | 🟦 [NiREvil](https://t.me/F_NiREvil) • ⬜ [EmadT3ch](https://t.me/EmadT3ch) • 🟪 [APPXA](https://t.me/APPXA) |
 | 📚 آموزش و یادگیری | 🟦 [Python Learn](https://t.me/python_learn) • ⬜ [AI Notes](https://t.me/ainotes) • 🟪 [CS Books](https://t.me/csbooks) |
 | 🌍 اخبار و تحلیل | 🟦 [Digital World](https://t.me/digital_world) • ⬜ [Crypto Radar](https://t.me/cryptoradar) • 🟪 [Iran Tech](https://t.me/irantech) |
 | 🛠️ ابزار و منابع | 🟦 [Free Tools](https://t.me/freetools) • ⬜ [VPN Hub](https://t.me/vpnhub) • 🟪 [Hack Resources](https://t.me/hackresources) |
