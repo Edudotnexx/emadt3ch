@@ -16,20 +16,20 @@
 
 
 ## 🌐 1. مرورگرها | Browsers
-| 💻 سیستم عامل | 🚀 برنامه‌ها |
-|:--:|:--|
-| 🖥️ ویندوز  | 🌈 [Chrome](https://www.google.com/chrome) • 🦊 [Firefox](https://www.mozilla.org/firefox) • 🦁 [Brave](https://brave.com) • 🔴 [vivaldi](http://vivaldi.com/download/) |
-| 📱 اندروید  | 🌈 [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome) • 🦊 [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) • 🦁 [Brave](https://play.google.com/store/apps/details?id=com.brave.browser) |
+| 💻 سیستم عامل | 🚀 برنامه‌ها | پیشنهادی |
+ |:--:|:--|:--|
+| 🖥️ ویندوز  | 🌈 [Chrome](https://www.google.com/chrome) • 🦊 [Firefox](https://www.mozilla.org/firefox) • 🦁 [Brave](https://brave.com) • 🔴 [vivaldi](http://vivaldi.com/download/) | 🦁 [Brave](https://brave.com) | 
+| 📱 اندروید  | 🌈 [Chrome](https://play.google.com/store/apps/details?id=com.android.chrome) • 🦊 [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) • 🦁 [Brave](https://play.google.com/store/apps/details?id=com.brave.browser) | 🦁 [Brave](https://play.google.com/store/apps/details?id=com.brave.browser) |
 
 <p align="center">
   <img src="Assets/blue-line.svg" width="100%" />
 </p>
 
 ## 🎬 2. پخش‌کننده مدیا | Media Player
-| 💻 سیستم عامل | 🚀 برنامه‌ها |
-|:--:|:--|
-| 🖥️ ویندوز  | 🟠 [VLC](https://www.videolan.org/vlc/) • 🟡 [PotPlayer](https://potplayer.daum.net) • 🎞️ [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) |
-| 📱 اندروید  | 🟠 [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc) • 📺 [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) |
+| 💻 سیستم عامل | 🚀 برنامه‌ها | پیشنهادی |
+|:--:|:--|:--|
+| 🖥️ ویندوز  | 🟠 [VLC](https://www.videolan.org/vlc/) • 🟡 [PotPlayer](https://potplayer.daum.net) • 🎞️ [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) | 🟠 [VLC](https://www.videolan.org/vlc/)  |
+| 📱 اندروید  | 🟠 [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc) • 📺 [MX Player](https://play.google.com/store/apps/details?id=com.mxtech.videoplayer.ad) | 🟠 [VLC](https://play.google.com/store/apps/details?id=org.videolan.vlc) |
 
 <p align="center">
   <img src="Assets/blue-line.svg" width="100%" />
