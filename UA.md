@@ -137,6 +137,18 @@
 </p>
 
 
+## 📢 10. اسکریپت های کاربردی | Useful scripts 
+
+| 📌 دسته‌بندی | 🔗 اسکریپت ها |
+|:--:|:--|
+| 📰 اکتیو کردن ویندوز | 🟦 [wind activision](https://nirevil.github.io/windows-activation/fa/wa/) |
+
+<p align="center">
+  <img src="Assets/blue-line.svg" width="100%" />
+</p>
+
+
+
 <p align="center">
   <b> کانال تلگرام : Emadt3ch </b>
 </p>
